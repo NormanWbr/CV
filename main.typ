@@ -80,7 +80,8 @@ Fan d'informatique et diplômé, motivé et volontaire, je dispose de compétenc
         "Coopératif",
         "Attentif",
         "Minutieux",
-        "Adaptabilité"
+        "Adaptabilité",
+        "Documentation"
       )
     ]
   ]
@@ -94,7 +95,7 @@ Fan d'informatique et diplômé, motivé et volontaire, je dispose de compétenc
 
     - Réalisation d'un sudoku CLI avec Java 
     - Back-end Java pour la gestion de menus de restaurant, d'un aéroport et de stages sportifs
-    - Billetterie pour des événements sportifs et un cinéma en TypeScript, HTML, SCSS et une API Java
+    - Billetterie pour des événements sportifs et un cinéma avec Angular, TypeScript, et une API Java
 
   #tags(
     "Java",
@@ -149,6 +150,7 @@ Fan d'informatique et diplômé, motivé et volontaire, je dispose de compétenc
     "VBA",
     "HTML",
     "CSS",
+    "Documentation"
   )
 
   === Stage au service informatique
